@@ -1,0 +1,5 @@
+pre = ('Jair','Michel','Dilma','Luiz','Fernando','Itamar','Fernando','José','João','Ernesto')
+print(pre)
+print(sorted(pre))
+print('Os cinco presidentes é: ', pre[5:10])
+print("A posição do presidente é: ", pre.index('João'))
